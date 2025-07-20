@@ -1,3 +1,4 @@
+#OOP Exercise 1: Create a Class with instance attributes
 class Vehicle:
     
     def __init__(self,max_speed,mileage):
